@@ -35,12 +35,3 @@ console.log(printMembers(newTest));
 
 
 
-/**
- * write a function that prints out members of an {}
- * Pass in an obj as arg
- * create an empty array
- * use the for..in to loop through the object
- * push each key into the array
- * function returns the array
- * 
- */
